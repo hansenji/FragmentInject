@@ -1,0 +1,5 @@
+apply plugin: 'java-library'
+apply plugin: 'kotlin'
+
+sourceCompatibility = "6"
+targetCompatibility = "6"

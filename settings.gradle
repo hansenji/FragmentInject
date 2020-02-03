@@ -1,0 +1,5 @@
+include ':fragment-inject'
+include ':fragment-inject-annotations'
+include ':fragment-inject-processor'
+include ':fragment-inject-stubs'
+include ':sample'
