@@ -1,3 +1,5 @@
+### Deprecated: Use [Hilt](https://dagger.dev/hilt/) ###
+
 Constructor Injection for Fragments
 =======================================
 
